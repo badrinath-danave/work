@@ -1,0 +1,9 @@
+git init
+git add . (added all)
+
+git commit -m "message"
+git branch -M main
+
+git remote add origin_state https://github.com/picklebytesolutions/picklebyte-site.git
+git push -u origin_state
+
